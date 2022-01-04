@@ -158,6 +158,27 @@
     <ClCompile Include="Example2_8.cpp" />
     <ClCompile Include="Example2_9.cpp" />
     <ClCompile Include="WarmingUp.cpp" />
+    <ClCompile Include="Workbook2_1.cpp" />
+    <ClCompile Include="Workbook2_10.cpp" />
+    <ClCompile Include="Workbook2_11.cpp" />
+    <ClCompile Include="Workbook2_12.cpp" />
+    <ClCompile Include="Workbook2_13.cpp" />
+    <ClCompile Include="Workbook2_14.cpp" />
+    <ClCompile Include="Workbook2_16.cpp" />
+    <ClCompile Include="Workbook2_17.cpp" />
+    <ClCompile Include="Workbook2_19.cpp" />
+    <ClCompile Include="Workbook2_2.cpp" />
+    <ClCompile Include="Workbook2_20.cpp" />
+    <ClCompile Include="Workbook2_21.cpp" />
+    <ClCompile Include="Workbook2_22.cpp" />
+    <ClCompile Include="Workbook2_23.cpp" />
+    <ClCompile Include="Workbook2_24.cpp" />
+    <ClCompile Include="Workbook2_3.cpp" />
+    <ClCompile Include="Workbook2_5.cpp" />
+    <ClCompile Include="Workbook2_6.cpp" />
+    <ClCompile Include="Workbook2_7.cpp" />
+    <ClCompile Include="Workbook2_8.cpp" />
+    <ClCompile Include="Workbook2_9.cpp" />
     <ClCompile Include="WorkbookAnswers.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

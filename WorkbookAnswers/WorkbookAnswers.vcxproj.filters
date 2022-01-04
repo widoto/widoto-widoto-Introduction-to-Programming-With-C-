@@ -42,5 +42,68 @@
     <ClCompile Include="Example2_12.cpp">
       <Filter>소스 파일\Chapter2</Filter>
     </ClCompile>
+    <ClCompile Include="Workbook2_1.cpp">
+      <Filter>소스 파일\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook2_2.cpp">
+      <Filter>소스 파일\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook2_3.cpp">
+      <Filter>소스 파일\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook2_5.cpp">
+      <Filter>소스 파일\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook2_6.cpp">
+      <Filter>소스 파일\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook2_7.cpp">
+      <Filter>소스 파일\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook2_8.cpp">
+      <Filter>소스 파일\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook2_9.cpp">
+      <Filter>소스 파일\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook2_10.cpp">
+      <Filter>소스 파일\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook2_11.cpp">
+      <Filter>소스 파일\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook2_12.cpp">
+      <Filter>소스 파일\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook2_13.cpp">
+      <Filter>소스 파일\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook2_14.cpp">
+      <Filter>소스 파일\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook2_16.cpp">
+      <Filter>소스 파일\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook2_17.cpp">
+      <Filter>소스 파일\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook2_19.cpp">
+      <Filter>소스 파일\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook2_20.cpp">
+      <Filter>소스 파일\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook2_21.cpp">
+      <Filter>소스 파일\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook2_22.cpp">
+      <Filter>소스 파일\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook2_23.cpp">
+      <Filter>소스 파일\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook2_24.cpp">
+      <Filter>소스 파일\Chapter2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
