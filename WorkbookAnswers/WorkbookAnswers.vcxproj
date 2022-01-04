@@ -151,6 +151,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Example2_10.cpp" />
+    <ClCompile Include="Example2_11.cpp" />
+    <ClCompile Include="Example2_12.cpp" />
+    <ClCompile Include="Example2_3.cpp" />
+    <ClCompile Include="Example2_8.cpp" />
+    <ClCompile Include="Example2_9.cpp" />
     <ClCompile Include="WarmingUp.cpp" />
     <ClCompile Include="WorkbookAnswers.cpp" />
   </ItemGroup>
