@@ -317,7 +317,9 @@
     <ClCompile Include="Workbook5_57.cpp" />
     <ClCompile Include="Workbook5_7.cpp" />
     <ClCompile Include="Workbook5_9.cpp" />
+    <ClCompile Include="Workbook6_1.cpp" />
     <ClCompile Include="Workbook6_18.cpp" />
+    <ClCompile Include="Workbook6_2.cpp" />
     <ClCompile Include="WorkbookAnswers.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

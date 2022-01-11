@@ -534,5 +534,11 @@
     <ClCompile Include="Quiz6_27.cpp">
       <Filter>소스 파일\Chapter6</Filter>
     </ClCompile>
+    <ClCompile Include="Workbook6_1.cpp">
+      <Filter>소스 파일\Chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook6_2.cpp">
+      <Filter>소스 파일\Chapter6</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
