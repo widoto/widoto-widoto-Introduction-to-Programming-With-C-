@@ -183,6 +183,16 @@
     <ClCompile Include="Example5_7.cpp" />
     <ClCompile Include="Example5_8.cpp" />
     <ClCompile Include="Example5_9.cpp" />
+    <ClCompile Include="Example6_1.cpp" />
+    <ClCompile Include="Example6_10.cpp" />
+    <ClCompile Include="Example6_11.cpp" />
+    <ClCompile Include="Example6_12.cpp" />
+    <ClCompile Include="Example6_2.cpp" />
+    <ClCompile Include="Example6_3.cpp" />
+    <ClCompile Include="Example6_5.cpp" />
+    <ClCompile Include="Example6_6.cpp" />
+    <ClCompile Include="Example6_8.cpp" />
+    <ClCompile Include="Example6_9.cpp" />
     <ClCompile Include="Quiz4_1.cpp" />
     <ClCompile Include="Quiz4_10.cpp" />
     <ClCompile Include="Quiz4_20.cpp" />
@@ -198,6 +208,16 @@
     <ClCompile Include="Quiz5_29.cpp" />
     <ClCompile Include="Quiz5_4.cpp" />
     <ClCompile Include="Quiz5_9.cpp" />
+    <ClCompile Include="Quiz6_13.cpp" />
+    <ClCompile Include="Quiz6_16.cpp" />
+    <ClCompile Include="Quiz6_17.cpp" />
+    <ClCompile Include="Quiz6_19.cpp" />
+    <ClCompile Include="Quiz6_20.cpp" />
+    <ClCompile Include="Quiz6_22.cpp" />
+    <ClCompile Include="Quiz6_23.cpp" />
+    <ClCompile Include="Quiz6_24.cpp" />
+    <ClCompile Include="Quiz6_26.cpp" />
+    <ClCompile Include="Quiz6_27.cpp" />
     <ClCompile Include="WarmingUp.cpp" />
     <ClCompile Include="WarmingUp3.cpp" />
     <ClCompile Include="WarmingUp5.cpp" />
@@ -297,6 +317,7 @@
     <ClCompile Include="Workbook5_57.cpp" />
     <ClCompile Include="Workbook5_7.cpp" />
     <ClCompile Include="Workbook5_9.cpp" />
+    <ClCompile Include="Workbook6_18.cpp" />
     <ClCompile Include="WorkbookAnswers.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
