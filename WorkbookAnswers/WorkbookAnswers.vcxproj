@@ -193,6 +193,13 @@
     <ClCompile Include="Example6_6.cpp" />
     <ClCompile Include="Example6_8.cpp" />
     <ClCompile Include="Example6_9.cpp" />
+    <ClCompile Include="Example7_10.cpp" />
+    <ClCompile Include="Example7_11.cpp" />
+    <ClCompile Include="Example7_2.cpp" />
+    <ClCompile Include="Example7_3.cpp" />
+    <ClCompile Include="Example7_4.cpp" />
+    <ClCompile Include="Example7_5.cpp" />
+    <ClCompile Include="Example7_9.cpp" />
     <ClCompile Include="Quiz4_1.cpp" />
     <ClCompile Include="Quiz4_10.cpp" />
     <ClCompile Include="Quiz4_20.cpp" />
@@ -218,6 +225,7 @@
     <ClCompile Include="Quiz6_24.cpp" />
     <ClCompile Include="Quiz6_26.cpp" />
     <ClCompile Include="Quiz6_27.cpp" />
+    <ClCompile Include="Quiz7_12.cpp" />
     <ClCompile Include="WarmingUp.cpp" />
     <ClCompile Include="WarmingUp3.cpp" />
     <ClCompile Include="WarmingUp5.cpp" />
@@ -342,6 +350,7 @@
     <ClCompile Include="Workbook6_6.cpp" />
     <ClCompile Include="Workbook6_7.cpp" />
     <ClCompile Include="Workbook6_9.cpp" />
+    <ClCompile Include="Workbook7_1.cpp" />
     <ClCompile Include="WorkbookAnswers.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

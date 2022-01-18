@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\Chapter6">
       <UniqueIdentifier>{7a580c24-14b0-40d9-9157-1c526e18913e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Chapter7">
+      <UniqueIdentifier>{bbd177b8-c17f-4f67-8e40-32ad944e2087}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="WorkbookAnswers.cpp">
@@ -605,6 +608,33 @@
     </ClCompile>
     <ClCompile Include="Workbook6_47.cpp">
       <Filter>소스 파일\Chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="Example7_2.cpp">
+      <Filter>소스 파일\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="Example7_3.cpp">
+      <Filter>소스 파일\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="Example7_4.cpp">
+      <Filter>소스 파일\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="Example7_5.cpp">
+      <Filter>소스 파일\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="Example7_9.cpp">
+      <Filter>소스 파일\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="Example7_10.cpp">
+      <Filter>소스 파일\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="Example7_11.cpp">
+      <Filter>소스 파일\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz7_12.cpp">
+      <Filter>소스 파일\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook7_1.cpp">
+      <Filter>소스 파일\Chapter7</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
