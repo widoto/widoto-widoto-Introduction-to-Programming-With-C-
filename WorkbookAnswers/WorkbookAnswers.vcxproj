@@ -351,6 +351,22 @@
     <ClCompile Include="Workbook6_7.cpp" />
     <ClCompile Include="Workbook6_9.cpp" />
     <ClCompile Include="Workbook7_1.cpp" />
+    <ClCompile Include="Workbook7_10.cpp" />
+    <ClCompile Include="Workbook7_11.cpp" />
+    <ClCompile Include="Workbook7_12.cpp" />
+    <ClCompile Include="Workbook7_14.cpp" />
+    <ClCompile Include="Workbook7_15.cpp" />
+    <ClCompile Include="Workbook7_16.cpp" />
+    <ClCompile Include="Workbook7_17.cpp" />
+    <ClCompile Include="Workbook7_2.cpp" />
+    <ClCompile Include="Workbook7_20.cpp" />
+    <ClCompile Include="Workbook7_21.cpp" />
+    <ClCompile Include="Workbook7_3.cpp" />
+    <ClCompile Include="Workbook7_4.cpp" />
+    <ClCompile Include="Workbook7_5.cpp" />
+    <ClCompile Include="Workbook7_6.cpp" />
+    <ClCompile Include="Workbook7_8.cpp" />
+    <ClCompile Include="Workbook7_9.cpp" />
     <ClCompile Include="WorkbookAnswers.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
