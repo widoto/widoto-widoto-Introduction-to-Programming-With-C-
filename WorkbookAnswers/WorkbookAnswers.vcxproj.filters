@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\Chapter7">
       <UniqueIdentifier>{bbd177b8-c17f-4f67-8e40-32ad944e2087}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Chapter8">
+      <UniqueIdentifier>{285649e7-7f1c-41b7-9951-b3a7996950c6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="WorkbookAnswers.cpp">
@@ -683,6 +686,18 @@
     </ClCompile>
     <ClCompile Include="Workbook7_21.cpp">
       <Filter>소스 파일\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="Example8_1.cpp">
+      <Filter>소스 파일\Chapter8</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook8_1.cpp">
+      <Filter>소스 파일\Chapter8</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook8_2.cpp">
+      <Filter>소스 파일\Chapter8</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook8_4.cpp">
+      <Filter>소스 파일\Chapter8</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
