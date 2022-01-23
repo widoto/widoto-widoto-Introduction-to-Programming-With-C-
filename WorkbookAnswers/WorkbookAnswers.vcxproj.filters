@@ -34,6 +34,9 @@
     <Filter Include="소스 파일\Chapter8">
       <UniqueIdentifier>{285649e7-7f1c-41b7-9951-b3a7996950c6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Chapter9">
+      <UniqueIdentifier>{108d02f9-780b-482e-9d67-0ec6aeffe1d8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="WorkbookAnswers.cpp">
