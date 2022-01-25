@@ -717,5 +717,50 @@
     <ClCompile Include="Workbook8_11.cpp">
       <Filter>소스 파일\Chapter8</Filter>
     </ClCompile>
+    <ClCompile Include="Example9_1.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
+    </ClCompile>
+    <ClCompile Include="Example9_2.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
+    </ClCompile>
+    <ClCompile Include="Example9_3.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
+    </ClCompile>
+    <ClCompile Include="Example9_4.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
+    </ClCompile>
+    <ClCompile Include="Example9_5.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
+    </ClCompile>
+    <ClCompile Include="Example9_8.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
+    </ClCompile>
+    <ClCompile Include="Example9_9.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
+    </ClCompile>
+    <ClCompile Include="Example9_10.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
+    </ClCompile>
+    <ClCompile Include="Example9_11.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
+    </ClCompile>
+    <ClCompile Include="Example9_12.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
+    </ClCompile>
+    <ClCompile Include="Example9_13.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
+    </ClCompile>
+    <ClCompile Include="Example9_14.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
+    </ClCompile>
+    <ClCompile Include="Example9_15.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz9_11.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz9_19.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
