@@ -391,6 +391,7 @@
     <ClCompile Include="Workbook8_5.cpp" />
     <ClCompile Include="Workbook8_7.cpp" />
     <ClCompile Include="Workbook8_9.cpp" />
+    <ClCompile Include="Workbook9_1.cpp" />
     <ClCompile Include="WorkbookAnswers.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
