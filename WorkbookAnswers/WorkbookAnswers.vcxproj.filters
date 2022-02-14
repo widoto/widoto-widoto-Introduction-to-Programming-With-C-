@@ -765,5 +765,35 @@
     <ClCompile Include="Workbook9_1.cpp">
       <Filter>소스 파일\Chapter9</Filter>
     </ClCompile>
+    <ClCompile Include="Workbook9_2.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook9_3.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook9_4.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook9_5.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook9_6.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook9_7.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook9_8.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook9_9.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
+    </ClCompile>
+    <ClCompile Include="Workbook9_11.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
