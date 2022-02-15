@@ -214,6 +214,7 @@
     <ClCompile Include="Example9_5.cpp" />
     <ClCompile Include="Example9_8.cpp" />
     <ClCompile Include="Example9_9.cpp" />
+    <ClCompile Include="Example_extra.cpp" />
     <ClCompile Include="Practice.cpp" />
     <ClCompile Include="Quiz4_1.cpp" />
     <ClCompile Include="Quiz4_10.cpp" />
