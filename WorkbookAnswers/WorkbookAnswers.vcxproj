@@ -151,6 +151,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Example10_1.cpp" />
+    <ClCompile Include="Example10_10.cpp" />
+    <ClCompile Include="Example10_11.cpp" />
+    <ClCompile Include="Example10_12.cpp" />
+    <ClCompile Include="Example10_13.cpp" />
+    <ClCompile Include="Example10_14.cpp" />
+    <ClCompile Include="Example10_15.cpp" />
+    <ClCompile Include="Example10_16.cpp" />
+    <ClCompile Include="Example10_2.cpp" />
+    <ClCompile Include="Example10_3.cpp" />
+    <ClCompile Include="Example10_4.cpp" />
+    <ClCompile Include="Example10_5.cpp" />
+    <ClCompile Include="Example10_6.cpp" />
+    <ClCompile Include="Example10_7.cpp" />
+    <ClCompile Include="Example10_8.cpp" />
+    <ClCompile Include="Example10_9.cpp" />
     <ClCompile Include="Example2_10.cpp" />
     <ClCompile Include="Example2_11.cpp" />
     <ClCompile Include="Example2_12.cpp" />
