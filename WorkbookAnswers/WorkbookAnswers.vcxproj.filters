@@ -849,5 +849,8 @@
     <ClCompile Include="Example10_16.cpp">
       <Filter>소스 파일\Chapter10</Filter>
     </ClCompile>
+    <ClCompile Include="Quiz10_1.cpp">
+      <Filter>소스 파일\Chapter10</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
