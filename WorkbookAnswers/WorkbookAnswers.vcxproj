@@ -239,6 +239,7 @@
     <ClCompile Include="Quiz10_21.cpp" />
     <ClCompile Include="Quiz10_22.cpp" />
     <ClCompile Include="Quiz10_23.cpp" />
+    <ClCompile Include="Quiz10_24.cpp" />
     <ClCompile Include="Quiz10_3.cpp" />
     <ClCompile Include="Quiz10_5.cpp" />
     <ClCompile Include="Quiz10_6.cpp" />
