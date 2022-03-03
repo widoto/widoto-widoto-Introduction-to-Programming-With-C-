@@ -885,5 +885,8 @@
     <ClCompile Include="Quiz10_24.cpp">
       <Filter>소스 파일\Chapter10</Filter>
     </ClCompile>
+    <ClCompile Include="Workbook10_1.cpp">
+      <Filter>소스 파일\Chapter10</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

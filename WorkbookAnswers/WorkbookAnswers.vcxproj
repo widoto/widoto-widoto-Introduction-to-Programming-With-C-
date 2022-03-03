@@ -275,6 +275,7 @@
     <ClCompile Include="WarmingUp.cpp" />
     <ClCompile Include="WarmingUp3.cpp" />
     <ClCompile Include="WarmingUp5.cpp" />
+    <ClCompile Include="Workbook10_1.cpp" />
     <ClCompile Include="Workbook2_1.cpp" />
     <ClCompile Include="Workbook2_10.cpp" />
     <ClCompile Include="Workbook2_11.cpp" />
